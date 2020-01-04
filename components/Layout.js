@@ -3,14 +3,14 @@ import Head from './Head';
 import Footer from './Footer';
 import Scripts from './Scripts';
 
-const layoutStyle = {
+{/*const layoutStyle = {
   margin: 20,
   padding: 20,
   border: '1px solid #DDD'
-};
+}; */}
 
 const Layout = props => (
-  <div style={layoutStyle}>
+  <div>
     <Head />
     <Header />
     {props.children}

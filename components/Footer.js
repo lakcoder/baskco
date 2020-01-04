@@ -5,11 +5,11 @@ const linkStyle = {
 };
 
 const Footer  = () => (
-  <footer class="dorne-footer-area">
-      <div class="container-fluid">
-          <div class="row">
-              <div class="col-12 d-md-flex align-items-center justify-content-between">
-                  <div class="footer-text">
+  <footer className="dorne-footer-area">
+      <div className="container-fluid">
+          <div className="row">
+              <div className="col-12 d-md-flex align-items-center justify-content-between">
+                  <div className="footer-text">
                       <p>
                           Content
                       </p>

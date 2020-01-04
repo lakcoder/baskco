@@ -6,17 +6,17 @@ const linkStyle = {
 
 const Head = () => (
   <head>
-      <meta charset="UTF-8" />
+      <meta charSet="UTF-8" />
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
       <title>Baskco</title>
 
-      <link href="static/css/style.css" rel="stylesheet" />
+      <link href="/static/css/style.css" rel="stylesheet" />
 
-      <link href="static/css/responsive/responsive.css" rel="stylesheet" />
+      <link href="/static/css/responsive/responsive.css" rel="stylesheet" />
 
   </head>
 );
