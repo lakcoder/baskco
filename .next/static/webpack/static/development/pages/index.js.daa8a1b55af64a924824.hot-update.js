@@ -82,11 +82,67 @@ var Head = function Head() {
     },
     __self: this
   }), __jsx("link", {
-    href: "/static/css/responsive/responsive.css",
+    href: "/static/css/custom.css",
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/responsive/responsive.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/bootstrap/bootstrap.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/animate.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/font-awesome.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/magnific-popup.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/owl.carousel.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/pe-icon-7-stroke.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
     },
     __self: this
   }));
@@ -97,4 +153,4 @@ var Head = function Head() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.7a8950ee6d2fd0cec1d5.hot-update.js.map
+//# sourceMappingURL=index.js.daa8a1b55af64a924824.hot-update.js.map

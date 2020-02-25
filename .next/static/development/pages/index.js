@@ -152,11 +152,91 @@ var Head = function Head() {
     },
     __self: this
   }), __jsx("link", {
-    href: "/static/css/responsive/responsive.css",
+    href: "/static/css/app.css",
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/main.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/components.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/custom.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/responsive/responsive.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/bootstrap/bootstrap.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/animate.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/font-awesome.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/magnific-popup.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/owl.carousel.min.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "/static/css/others/pe-icon-7-stroke.css",
+    rel: "stylesheet",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
     },
     __self: this
   }));
@@ -352,7 +432,7 @@ var Header = function Header() {
       lineNumber: 24
     },
     __self: this
-  }, "Explore"), __jsx("a", {
+  }, "Groceries"), __jsx("a", {
     className: "dropdown-item",
     href: "listing.html",
     __source: {
@@ -360,7 +440,7 @@ var Header = function Header() {
       lineNumber: 25
     },
     __self: this
-  }, "Listing"), __jsx("a", {
+  }, "GIfts"), __jsx("a", {
     className: "dropdown-item",
     href: "single-listing.html",
     __source: {
@@ -368,7 +448,7 @@ var Header = function Header() {
       lineNumber: 26
     },
     __self: this
-  }, "Single Listing"), __jsx("a", {
+  }, "Food"), __jsx("a", {
     className: "dropdown-item",
     href: "contact.html",
     __source: {
@@ -376,11 +456,19 @@ var Header = function Header() {
       lineNumber: 27
     },
     __self: this
-  }, "Contact"))), __jsx("li", {
+  }, "Laundry Services"), __jsx("a", {
+    className: "dropdown-item",
+    href: "contact.html",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }, "Car Washing Services"))), __jsx("li", {
     className: "nav-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 31
     },
     __self: this
   }, __jsx("a", {
@@ -388,21 +476,21 @@ var Header = function Header() {
     href: "contact.html",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 32
     },
     __self: this
   }, "Contact"))), __jsx("div", {
     className: "dorne-signin-btn",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 35
     },
     __self: this
   }, __jsx("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 36
     },
     __self: this
   }, "Sign in  or Register"))))))));
@@ -9807,109 +9895,109 @@ function index() {
     },
     __self: this
   }, __jsx("section", {
-    className: "jsx-2456399682" + " " + "dorne-welcome-area bg-img bg-overlay bg-img",
+    className: "jsx-2681160579" + " " + "dorne-welcome-area bg-img bg-overlay bg-img",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
   }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "2456399682",
+    id: "2681160579",
     __self: this
-  }, ".bg-img.jsx-2456399682{background-image:url(/static/img/bg-img/bg12.jpg);}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9yb290L2Jhc2tjby9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFPa0IsQUFHNkQsa0RBQ3BEIiwiZmlsZSI6Ii9yb290L2Jhc2tjby9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9MYXlvdXQnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gaW5kZXgoKSB7XG4gIHJldHVybiAoXG4gICAgPExheW91dD5cbiAgICA8c2VjdGlvbiBjbGFzc05hbWU9XCJkb3JuZS13ZWxjb21lLWFyZWEgYmctaW1nIGJnLW92ZXJsYXkgYmctaW1nXCI+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5iZy1pbWcge1xuICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvc3RhdGljL2ltZy9iZy1pbWcvYmcxMi5qcGcpO1xuICAgICAgICB9XG4gICAgICAgIGB9PC9zdHlsZT5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb250YWluZXIgaC0xMDBcIj5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwicm93IGgtMTAwIGFsaWduLWl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyXCI+XG4gICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2wtMTIgY29sLW1kLTEwXCI+XG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVyby1jb250ZW50XCI+XG4gICAgICAgICAgICAgICAgICAgICAgICA8aDI+RGlzY292ZXIgdGhlIG5ldy4uLjwvaDI+XG4gICAgICAgICAgICAgICAgICAgICAgICA8aDQ+VGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBjYXRlciB0byB5b3VyIG5lZWRzPC9oND5cbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgIHsvKiBIZXJvIFNlYXJjaCBGb3JtICovXG4gICAgICAgICAgICAgICAgICAgIC8qIGZpbmQgcGxhY2VzICovXG4gICAgICAgICAgICAgICAgICAgIC8qICoqKioqIENhdGFnb3J5IEFyZWEgU3RhcnQgKioqKiogKi99XG4gICAgICAgICAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT1cImRvcm5lLWNhdGFnb3J5LWFyZWFcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29udGFpbmVyXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJyb3dcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2wtMTJcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYWxsLWNhdGFnb3JpZXNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInJvd1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogU2luZ2xlIENhdGFnb3J5IEFyZWEgKi99XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyIGNvbC1zbS02IGNvbC1tZFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj1cIiNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNpbmdsZS1jYXRhZ29yeS1hcmVhIHdvdyBmYWRlSW5VcEJpZ1wiIGRhdGEtd293LWRlbGF5PVwiMC4yc1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhdGFnb3J5LWNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPVwiaW1nL2NvcmUtaW1nL2ljb24tMS5wbmdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg2PkNvbWluZyBTb29uITwvaDY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIFNpbmdsZSBDYXRhZ29yeSBBcmVhICovfVxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC0xMiBjb2wtc20tNiBjb2wtbWRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtY2F0YWdvcnktYXJlYSB3b3cgZmFkZUluVXBCaWdcIiBkYXRhLXdvdy1kZWxheT1cIjAuNHNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXRhZ29yeS1jb250ZW50XCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz1cImltZy9jb3JlLWltZy9pY29uLTIucG5nXCIgYWx0PVwiXCIgLz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj5Db21pbmcgU29vbiE8L2g2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKiBTaW5nbGUgQ2F0YWdvcnkgQXJlYSAqL31cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2wtMTIgY29sLXNtLTYgY29sLW1kXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPVwiLi9saXN0aW5nLmh0bWxcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNpbmdsZS1jYXRhZ29yeS1hcmVhIHdvdyBmYWRlSW5VcEJpZ1wiIGRhdGEtd293LWRlbGF5PVwiMC42c1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhdGFnb3J5LWNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPVwiaW1nL2NvcmUtaW1nL2ljb24tMy5wbmdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg2IGNsYXNzTmFtZT1cInllbGxvd1wiPlNob3BwaW5nPC9oNj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogU2luZ2xlIENhdGFnb3J5IEFyZWEgKi99XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyIGNvbC1zbS02IGNvbC1tZFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj1cIiNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNpbmdsZS1jYXRhZ29yeS1hcmVhIHdvdyBmYWRlSW5VcEJpZ1wiIGRhdGEtd293LWRlbGF5PVwiMC44c1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhdGFnb3J5LWNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPVwiaW1nL2NvcmUtaW1nL2ljb24tNC5wbmdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg2PkNvbWluZyBTb29uITwvaDY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIFNpbmdsZSBDYXRhZ29yeSBBcmVhICovfVxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC0xMiBjb2wtbWRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtY2F0YWdvcnktYXJlYSB3b3cgZmFkZUluVXBCaWdcIiBkYXRhLXdvdy1kZWxheT1cIjFzXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY2F0YWdvcnktY29udGVudFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9XCJpbWcvY29yZS1pbWcvaWNvbi01LnBuZ1wiIGFsdD1cIlwiIC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDY+Q29taW5nIFNvb24hPC9oNj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgIDwvc2VjdGlvbj5cbiAgICAgICAgICAgICAgICAgICAgey8qKioqKiogQ2F0YWdvcnkgQXJlYSBFbmQgKioqKiogKi99XG4gICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9kaXY+XG4gICAgICAgIC8qSGVybyBTb2NpYWwgQnRuKi9cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZXJvLXNvY2lhbC1idG5cIj5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic29jaWFsLXRpdGxlIGQtZmxleCBhbGlnbi1pdGVtcy1jZW50ZXJcIj5cbiAgICAgICAgICAgICAgICA8c3Bhbj48L3NwYW4+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic29jaWFsLWJ0bnNcIj5cbiAgICAgICAgICAgICAgICA8YSBocmVmPVwiI1wiPjxpIGNsYXNzTmFtZT1cImZhIGZhLWxpbmtlZGluXCIgYXJpYS1oYXNwb3B1cD1cInRydWVcIj48L2k+PC9hPlxuICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtdHdpdHRlclwiIGFyaWEtaGFzcG9wdXA9XCJ0cnVlXCI+PC9pPjwvYT5cbiAgICAgICAgICAgICAgICA8YSBocmVmPVwiI1wiPjxpIGNsYXNzTmFtZT1cImZhIGZhLWZhY2Vib29rXCIgYXJpYS1oYXNwb3B1cD1cInRydWVcIj48L2k+PC9hPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgIDwvc2VjdGlvbj5cbiAgICA8L0xheW91dD5cbiAgKTtcbn1cbiJdfQ== */\n/*@ sourceURL=/root/baskco/pages/index.js */"), __jsx("div", {
-    className: "jsx-2456399682" + " " + "container h-100",
+  }, ".bg-img.jsx-2681160579{background-image:url(/static/img/bg-img/bg13.jpeg);}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9yb290L2Jhc2tjby9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFPa0IsQUFHOEQsbURBQ3JEIiwiZmlsZSI6Ii9yb290L2Jhc2tjby9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9MYXlvdXQnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gaW5kZXgoKSB7XG4gIHJldHVybiAoXG4gICAgPExheW91dD5cbiAgICA8c2VjdGlvbiBjbGFzc05hbWU9XCJkb3JuZS13ZWxjb21lLWFyZWEgYmctaW1nIGJnLW92ZXJsYXkgYmctaW1nXCI+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5iZy1pbWcge1xuICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvc3RhdGljL2ltZy9iZy1pbWcvYmcxMy5qcGVnKTtcbiAgICAgICAgfVxuICAgICAgICBgfTwvc3R5bGU+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29udGFpbmVyIGgtMTAwXCI+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInJvdyBoLTEwMCBhbGlnbi1pdGVtcy1jZW50ZXIganVzdGlmeS1jb250ZW50LWNlbnRlclwiPlxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyIGNvbC1tZC0xMFwiPlxuICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlcm8tY29udGVudFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgPGgyPkRpc2NvdmVyIHRoZSBuZXcuLi48L2gyPlxuICAgICAgICAgICAgICAgICAgICAgICAgPGg0PkZpbmQgdGhlIGJlc3Qgc29sdXRpb25zIGZvciB5b3VyIGRhaWx5IG5lZWRzITwvaDQ+XG4gICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICB7LyogSGVybyBTZWFyY2ggRm9ybSAqL1xuICAgICAgICAgICAgICAgICAgICAvKiBmaW5kIHBsYWNlcyAqL1xuICAgICAgICAgICAgICAgICAgICAvKiAqKioqKiBDYXRhZ29yeSBBcmVhIFN0YXJ0ICoqKioqICovfVxuICAgICAgICAgICAgICAgICAgICA8c2VjdGlvbiBjbGFzc05hbWU9XCJkb3JuZS1jYXRhZ29yeS1hcmVhXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRhaW5lclwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwicm93XCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImFsbC1jYXRhZ29yaWVzXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJyb3dcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIFNpbmdsZSBDYXRhZ29yeSBBcmVhICovfVxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC0xMiBjb2wtc20tNiBjb2wtbWRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIvZ3JvY2VyaWVzXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtY2F0YWdvcnktYXJlYSB3b3cgZmFkZUluVXBCaWdcIiBkYXRhLXdvdy1kZWxheT1cIjAuMnNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXRhZ29yeS1jb250ZW50XCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz1cImltZy9jb3JlLWltZy9pY29uLTEucG5nXCIgYWx0PVwiXCIgLz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj5Hcm9jZXJpZXM8L2g2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKiBTaW5nbGUgQ2F0YWdvcnkgQXJlYSAqL31cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2wtMTIgY29sLXNtLTYgY29sLW1kXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPVwiL2xhdW5kcnlcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNpbmdsZS1jYXRhZ29yeS1hcmVhIHdvdyBmYWRlSW5VcEJpZ1wiIGRhdGEtd293LWRlbGF5PVwiMC40c1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhdGFnb3J5LWNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPVwiaW1nL2NvcmUtaW1nL2ljb24tMi5wbmdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg2PkxhdW5kcnkgU2VydmljZXM8YnIvPjwvaDY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIFNpbmdsZSBDYXRhZ29yeSBBcmVhICovfVxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC0xMiBjb2wtc20tNiBjb2wtbWRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIvY2FyX3dhc2hpbmdcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNpbmdsZS1jYXRhZ29yeS1hcmVhIHdvdyBmYWRlSW5VcEJpZ1wiIGRhdGEtd293LWRlbGF5PVwiMC42c1wiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhdGFnb3J5LWNvbnRlbnRcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPVwiaW1nL2NvcmUtaW1nL2ljb24tMy5wbmdcIiBhbHQ9XCJcIiAvPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg2PkNhciBXYXNoaW5nIFNlcnZpY2VzPC9oNj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogU2luZ2xlIENhdGFnb3J5IEFyZWEgKi99XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyIGNvbC1zbS02IGNvbC1tZFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj1cIi9mb29kXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtY2F0YWdvcnktYXJlYSB3b3cgZmFkZUluVXBCaWdcIiBkYXRhLXdvdy1kZWxheT1cIjAuOHNcIj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXRhZ29yeS1jb250ZW50XCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz1cImltZy9jb3JlLWltZy9pY29uLTQucG5nXCIgYWx0PVwiXCIgLz5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj5Gb29kPC9oNj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogU2luZ2xlIENhdGFnb3J5IEFyZWEgKi99XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLTEyIGNvbC1tZFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj1cImdpZnRzXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaW5nbGUtY2F0YWdvcnktYXJlYSB3b3cgZmFkZUluVXBCaWdcIiBkYXRhLXdvdy1kZWxheT1cIjFzXCI+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY2F0YWdvcnktY29udGVudFwiPlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9XCJpbWcvY29yZS1pbWcvaWNvbi01LnBuZ1wiIGFsdD1cIlwiIC8+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDY+R2lmdHM8L2g2PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgICAgICAgICAgPC9zZWN0aW9uPlxuICAgICAgICAgICAgICAgICAgICB7LyoqKioqKiBDYXRhZ29yeSBBcmVhIEVuZCAqKioqKiAqL31cbiAgICAgICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgLypIZXJvIFNvY2lhbCBCdG4qL1xuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlcm8tc29jaWFsLWJ0blwiPlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzb2NpYWwtdGl0bGUgZC1mbGV4IGFsaWduLWl0ZW1zLWNlbnRlclwiPlxuICAgICAgICAgICAgICAgIDxzcGFuPjwvc3Bhbj5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzb2NpYWwtYnRuc1wiPlxuICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtaW5zdGFncmFtXCIgYXJpYS1oYXNwb3B1cD1cInRydWVcIj48L2k+PC9hPlxuICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtbGlua2VkaW5cIiBhcmlhLWhhc3BvcHVwPVwidHJ1ZVwiPjwvaT48L2E+XG4gICAgICAgICAgICAgICAgPGEgaHJlZj1cIiNcIj48aSBjbGFzc05hbWU9XCJmYSBmYS10d2l0dGVyXCIgYXJpYS1oYXNwb3B1cD1cInRydWVcIj48L2k+PC9hPlxuICAgICAgICAgICAgICAgIDxhIGhyZWY9XCIjXCI+PGkgY2xhc3NOYW1lPVwiZmEgZmEtZmFjZWJvb2tcIiBhcmlhLWhhc3BvcHVwPVwidHJ1ZVwiPjwvaT48L2E+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9kaXY+XG4gICAgPC9zZWN0aW9uPlxuICAgIDwvTGF5b3V0PlxuICApO1xufVxuIl19 */\n/*@ sourceURL=/root/baskco/pages/index.js */"), __jsx("div", {
+    className: "jsx-2681160579" + " " + "container h-100",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "row h-100 align-items-center justify-content-center",
+    className: "jsx-2681160579" + " " + "row h-100 align-items-center justify-content-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-md-10",
+    className: "jsx-2681160579" + " " + "col-12 col-md-10",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "hero-content",
+    className: "jsx-2681160579" + " " + "hero-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
   }, __jsx("h2", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
   }, "Discover the new..."), __jsx("h4", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
-  }, "This is the best place to cater to your needs")), __jsx("section", {
-    className: "jsx-2456399682" + " " + "dorne-catagory-area",
+  }, "Find the best solutions for your daily needs!")), __jsx("section", {
+    className: "jsx-2681160579" + " " + "dorne-catagory-area",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "container",
+    className: "jsx-2681160579" + " " + "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "row",
+    className: "jsx-2681160579" + " " + "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12",
+    className: "jsx-2681160579" + " " + "col-12",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "all-catagories",
+    className: "jsx-2681160579" + " " + "all-catagories",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "row",
+    className: "jsx-2681160579" + " " + "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-sm-6 col-md",
+    className: "jsx-2681160579" + " " + "col-12 col-sm-6 col-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
     },
     __self: this
   }, __jsx("a", {
-    href: "#",
-    className: "jsx-2456399682",
+    href: "/groceries",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
@@ -9917,14 +10005,14 @@ function index() {
     __self: this
   }, __jsx("div", {
     "data-wow-delay": "0.2s",
-    className: "jsx-2456399682" + " " + "single-catagory-area wow fadeInUpBig",
+    className: "jsx-2681160579" + " " + "single-catagory-area wow fadeInUpBig",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "catagory-content",
+    className: "jsx-2681160579" + " " + "catagory-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -9933,29 +10021,29 @@ function index() {
   }, __jsx("img", {
     src: "img/core-img/icon-1.png",
     alt: "",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
     },
     __self: this
   }), __jsx("h6", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35
     },
     __self: this
-  }, "Coming Soon!"))))), __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-sm-6 col-md",
+  }, "Groceries"))))), __jsx("div", {
+    className: "jsx-2681160579" + " " + "col-12 col-sm-6 col-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41
     },
     __self: this
   }, __jsx("a", {
-    href: "#",
-    className: "jsx-2456399682",
+    href: "/laundry",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 42
@@ -9963,14 +10051,14 @@ function index() {
     __self: this
   }, __jsx("div", {
     "data-wow-delay": "0.4s",
-    className: "jsx-2456399682" + " " + "single-catagory-area wow fadeInUpBig",
+    className: "jsx-2681160579" + " " + "single-catagory-area wow fadeInUpBig",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 43
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "catagory-content",
+    className: "jsx-2681160579" + " " + "catagory-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44
@@ -9979,29 +10067,36 @@ function index() {
   }, __jsx("img", {
     src: "img/core-img/icon-2.png",
     alt: "",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
     },
     __self: this
   }), __jsx("h6", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 46
     },
     __self: this
-  }, "Coming Soon!"))))), __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-sm-6 col-md",
+  }, "Laundry Services", __jsx("br", {
+    className: "jsx-2681160579",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
+    },
+    __self: this
+  })))))), __jsx("div", {
+    className: "jsx-2681160579" + " " + "col-12 col-sm-6 col-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 52
     },
     __self: this
   }, __jsx("a", {
-    href: "./listing.html",
-    className: "jsx-2456399682",
+    href: "/car_washing",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
@@ -10009,14 +10104,14 @@ function index() {
     __self: this
   }, __jsx("div", {
     "data-wow-delay": "0.6s",
-    className: "jsx-2456399682" + " " + "single-catagory-area wow fadeInUpBig",
+    className: "jsx-2681160579" + " " + "single-catagory-area wow fadeInUpBig",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 54
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "catagory-content",
+    className: "jsx-2681160579" + " " + "catagory-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 55
@@ -10025,29 +10120,29 @@ function index() {
   }, __jsx("img", {
     src: "img/core-img/icon-3.png",
     alt: "",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 56
     },
     __self: this
   }), __jsx("h6", {
-    className: "jsx-2456399682" + " " + "yellow",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 57
     },
     __self: this
-  }, "Shopping"))))), __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-sm-6 col-md",
+  }, "Car Washing Services"))))), __jsx("div", {
+    className: "jsx-2681160579" + " " + "col-12 col-sm-6 col-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 63
     },
     __self: this
   }, __jsx("a", {
-    href: "#",
-    className: "jsx-2456399682",
+    href: "/food",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 64
@@ -10055,14 +10150,14 @@ function index() {
     __self: this
   }, __jsx("div", {
     "data-wow-delay": "0.8s",
-    className: "jsx-2456399682" + " " + "single-catagory-area wow fadeInUpBig",
+    className: "jsx-2681160579" + " " + "single-catagory-area wow fadeInUpBig",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 65
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "catagory-content",
+    className: "jsx-2681160579" + " " + "catagory-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 66
@@ -10071,29 +10166,29 @@ function index() {
   }, __jsx("img", {
     src: "img/core-img/icon-4.png",
     alt: "",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 67
     },
     __self: this
   }), __jsx("h6", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68
     },
     __self: this
-  }, "Coming Soon!"))))), __jsx("div", {
-    className: "jsx-2456399682" + " " + "col-12 col-md",
+  }, "Food"))))), __jsx("div", {
+    className: "jsx-2681160579" + " " + "col-12 col-md",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 74
     },
     __self: this
   }, __jsx("a", {
-    href: "#",
-    className: "jsx-2456399682",
+    href: "gifts",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 75
@@ -10101,14 +10196,14 @@ function index() {
     __self: this
   }, __jsx("div", {
     "data-wow-delay": "1s",
-    className: "jsx-2456399682" + " " + "single-catagory-area wow fadeInUpBig",
+    className: "jsx-2681160579" + " " + "single-catagory-area wow fadeInUpBig",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 76
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "catagory-content",
+    className: "jsx-2681160579" + " " + "catagory-content",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 77
@@ -10117,42 +10212,42 @@ function index() {
   }, __jsx("img", {
     src: "img/core-img/icon-5.png",
     alt: "",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 78
     },
     __self: this
   }), __jsx("h6", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 79
     },
     __self: this
-  }, "Coming Soon!")))))))))))))), "/*Hero Social Btn*/", __jsx("div", {
-    className: "jsx-2456399682" + " " + "hero-social-btn",
+  }, "Gifts")))))))))))))), "/*Hero Social Btn*/", __jsx("div", {
+    className: "jsx-2681160579" + " " + "hero-social-btn",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 95
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-2456399682" + " " + "social-title d-flex align-items-center",
+    className: "jsx-2681160579" + " " + "social-title d-flex align-items-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 96
     },
     __self: this
   }, __jsx("span", {
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 97
     },
     __self: this
   })), __jsx("div", {
-    className: "jsx-2456399682" + " " + "social-btns",
+    className: "jsx-2681160579" + " " + "social-btns",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 99
@@ -10160,7 +10255,7 @@ function index() {
     __self: this
   }, __jsx("a", {
     href: "#",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 100
@@ -10168,7 +10263,7 @@ function index() {
     __self: this
   }, __jsx("i", {
     "aria-haspopup": "true",
-    className: "jsx-2456399682" + " " + "fa fa-linkedin",
+    className: "jsx-2681160579" + " " + "fa fa-instagram",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 100
@@ -10176,7 +10271,7 @@ function index() {
     __self: this
   })), __jsx("a", {
     href: "#",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 101
@@ -10184,7 +10279,7 @@ function index() {
     __self: this
   }, __jsx("i", {
     "aria-haspopup": "true",
-    className: "jsx-2456399682" + " " + "fa fa-twitter",
+    className: "jsx-2681160579" + " " + "fa fa-linkedin",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 101
@@ -10192,7 +10287,7 @@ function index() {
     __self: this
   })), __jsx("a", {
     href: "#",
-    className: "jsx-2456399682",
+    className: "jsx-2681160579",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 102
@@ -10200,10 +10295,26 @@ function index() {
     __self: this
   }, __jsx("i", {
     "aria-haspopup": "true",
-    className: "jsx-2456399682" + " " + "fa fa-facebook",
+    className: "jsx-2681160579" + " " + "fa fa-twitter",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 102
+    },
+    __self: this
+  })), __jsx("a", {
+    href: "#",
+    className: "jsx-2681160579",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 103
+    },
+    __self: this
+  }, __jsx("i", {
+    "aria-haspopup": "true",
+    className: "jsx-2681160579" + " " + "fa fa-facebook",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 103
     },
     __self: this
   }))))));

@@ -21,10 +21,11 @@ const Header = () => (
                                   <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore <i className="fa fa-angle-down" aria-hidden="true"></i></a>
                                   <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                                       <a className="dropdown-item" href="index.html">Home</a>
-                                      <a className="dropdown-item" href="explore.html">Explore</a>
-                                      <a className="dropdown-item" href="listing.html">Listing</a>
-                                      <a className="dropdown-item" href="single-listing.html">Single Listing</a>
-                                      <a className="dropdown-item" href="contact.html">Contact</a>
+                                      <a className="dropdown-item" href="explore.html">Groceries</a>
+                                      <a className="dropdown-item" href="listing.html">GIfts</a>
+                                      <a className="dropdown-item" href="single-listing.html">Food</a>
+                                      <a className="dropdown-item" href="contact.html">Laundry Services</a>
+                                      <a className="dropdown-item" href="contact.html">Car Washing Services</a>
                                   </div>
                               </li>
                               <li className="nav-item">
