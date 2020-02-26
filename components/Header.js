@@ -33,7 +33,7 @@ const Header = () => (
                               </li>
                           </ul>
                           <div className="dorne-signin-btn">
-                              <a href="#">Sign in  or Register</a>
+                              <a href="/login">Sign in  or Register</a>
                           </div>
                       </div>
                   </nav>

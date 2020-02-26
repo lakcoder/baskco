@@ -97,10 +97,10 @@ export default function index() {
                 <span></span>
             </div>
             <div className="social-btns">
-            <a href="https://instagram.com/baskco_?igshid=r925llcvkaeg"><i className="fa fa-instagram" aria-haspopup="true"></i></a>
-            <a href="https://www.linkedin.com/company/baskco"><i className="fa fa-linkedin" aria-haspopup="true"></i></a>
-            <a href="https://twitter.com/Baskco1?s=09"><i className="fa fa-twitter" aria-haspopup="true"></i></a>
-            <a href="https://www.facebook.com/Baskco-103014131304762/?modal=admin_todo_tour"><i className="fa fa-facebook" aria-haspopup="true"></i></a>
+                <a href="#"><i className="fa fa-instagram" aria-haspopup="true"></i></a>
+                <a href="#"><i className="fa fa-linkedin" aria-haspopup="true"></i></a>
+                <a href="#"><i className="fa fa-twitter" aria-haspopup="true"></i></a>
+                <a href="#"><i className="fa fa-facebook" aria-haspopup="true"></i></a>
             </div>
         </div>
     </section>
